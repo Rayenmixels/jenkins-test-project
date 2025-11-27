@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.*;
 
 import tn.esprit.spring.entities.User;
 import tn.esprit.spring.services.IUserService;
+// test integration before validation 1
 
 // userRestControl
 @RestController // = @Controller + @ResponseBody 
